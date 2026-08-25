@@ -97,14 +97,8 @@ A real-time battle arena built with **Canvas 2D**, where characters enter from t
 ## GitHub
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=eduardoehg&show_icons=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoehg&layout=compact&hide_border=true"
-    height="170"
-  />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 ---
