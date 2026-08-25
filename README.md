@@ -2,8 +2,6 @@
 
 ### Full Stack Developer · Backend · Frontend · APIs · Automation
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-henrique-goncalves/) · [Portfolio](https://edu-portfolio.com.br/)
-
 ---
 
 ## About me
