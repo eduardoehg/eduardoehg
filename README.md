@@ -1,6 +1,6 @@
 # Eduardo Henrique Gonçalves
 
-### Full Stack Developer · Backend · Automation · AI
+### Full Stack Developer · Backend · Frontend · APIs · Automation
 
 [LinkedIn](https://www.linkedin.com/in/eduardo-henrique-goncalves/) · [Portfolio](https://edu-portfolio.com.br/)
 
