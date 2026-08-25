@@ -97,8 +97,17 @@ A real-time battle arena built with **Canvas 2D**, where characters enter from t
 ## GitHub
 
 <p align="left">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img height="170" src="./profile/stats-light.svg" alt="GitHub Stats">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img height="170" src="./profile/top-langs-light.svg" alt="Top Languages">
+  </picture>
 </p>
 
 ---
